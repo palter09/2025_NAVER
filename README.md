@@ -15,6 +15,18 @@
 </br>
 </br>
 
+
+## 문자열
+[9086번 문자열]() | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/9086%EB%B2%88%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
+</br>
+
+[10809번 알파벳 찾기](https://www.acmicpc.net/problem/10809) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.cpp)
+</br>
+
+
+
+
+
 ## 시간 복잡도
 [24262번 알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84/24262%EB%B2%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%201.cpp)
 </br>
