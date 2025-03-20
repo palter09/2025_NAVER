@@ -10,6 +10,8 @@
 [10798번 세로읽기](https://www.acmicpc.net/problem/10798) | [코드](https://github.com/palter09/2025_NAVER/blob/main/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/10798%EB%B2%88%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.cpp)
 </br>
 
+[2563번 색종이](https://www.acmicpc.net/problem/2563) | [코드](https://github.com/palter09/2025_NAVER/blob/main/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/2563%EB%B2%88%20%EC%83%89%EC%A2%85%EC%9D%B4.cpp)
+</br>
 
 
 
