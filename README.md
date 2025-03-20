@@ -13,4 +13,10 @@
 
 [14215번 세 막대](https://www.acmicpc.net/problem/14215) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EA%B8%B0%ED%95%98%3A%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%82%BC%EA%B0%81%ED%98%95/14215%EB%B2%88%20%EC%84%B8%20%EB%A7%89%EB%8C%80.cpp)
 </br>
+</br>
+
+## 시간 복잡도
+[24262번 알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84/24262%EB%B2%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%201.cpp)
+</br>
+
 
