@@ -17,7 +17,7 @@
 
 
 ## 문자열
-[9086번 문자열]() | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/9086%EB%B2%88%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
+[9086번 문자열](https://www.acmicpc.net/problem/9086) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/9086%EB%B2%88%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
 </br>
 
 [10809번 알파벳 찾기](https://www.acmicpc.net/problem/10809) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.cpp)
