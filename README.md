@@ -34,6 +34,11 @@
 [24267번 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84/24267%EB%B2%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%206.cpp)
 </br>
 
+[24313번 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | [코드](https://github.com/palter09/2025_NAVER/blob/main/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84/24313%EB%B2%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%A0%90%EA%B7%BC%EC%A0%81%20%ED%91%9C%EA%B8%B0%201.cpp)
+</br>
+
+
+
 
 
 
